@@ -1,0 +1,9 @@
+Bin/
+Bin-int/
+Info/
+YT/
+*.sln
+*.vcxproj
+*.filters
+*.user
+.vs/
