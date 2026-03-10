@@ -4,4 +4,13 @@ This is a real time serial plotter made for Windows for displaying/plotting seri
 ![image alt](https://github.com/d-send/Serial_Plotter/blob/8c48e3386291a6e9ac09146a637e511c1e5ebc7e/G3.jpg)
 
 ## Features
-* wefwe
+* Auto Detect the number of channels
+* colors of the individual plots can be changed by right clicking on the legend and picking the color from the color palette
+* Manual Scaling can be done by the sliders
+* Supports positive and negative integers and floats
+
+## How to send data over Serial
+```c
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
