@@ -6,6 +6,7 @@ This is a real time serial plotter made for Windows for displaying/plotting seri
 ## Features
 * Auto Detect the number of channels
 * colors of the individual plots can be changed by right clicking on the legend and picking the color from the color palette
+* Legend names can be changed by right clicking on the name on the legend of the corresponding plot and renaming
 * Manual Scaling can be done by the sliders
 * Supports positive and negative integers and floats
 
@@ -16,3 +17,4 @@ Serial.print(a);
 Serial.print(",");
 Serial.println(b);
 ```
+[![Alt text](https://img.youtube.com/vi/Tqb1qtOlFWQ/0.jpg)](https://www.youtube.com/watch?v=Tqb1qtOlFWQ)
