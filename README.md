@@ -10,7 +10,9 @@ This is a real time serial plotter made for Windows for displaying/plotting seri
 * Supports positive and negative integers and floats
 
 ## How to send data over Serial
+you can use the typical Arduino style serial printing to send data.use a comma delimiter to seperate data channels. 
 ```c
-var s = "JavaScript syntax highlighting";
-alert(s);
+Serial.print(a);
+Serial.print(",");
+Serial.println(b);
 ```
